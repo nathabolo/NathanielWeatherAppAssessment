@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NathanielWeatherAppAssessment</string>
+    <string name="weather_title">Weather App</string>
+    <string name="weather_hint">Enter your location…</string>
+    <string name="celsius">°C</string>
+    <string name="text_view_text">77</string>
+    <string name="text_view_text2">Pretoria</string>
+    <string name="text_sunny">Sunny</string>
+    <string name="weather_description">Clear and sunny</string>
+</resources>
